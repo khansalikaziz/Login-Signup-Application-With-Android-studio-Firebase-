@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "476294979149",
+    "project_id": "auth-89602",
+    "storage_bucket": "auth-89602.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:476294979149:android:eac570766e19021e304604",
+        "android_client_info": {
+          "package_name": "com.strangersforsalik.authentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "476294979149-84eh0kjj0p035ci70oun67ejsdqdcif9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYzCP-pjwDwOxGaca9RVUud_LcKj9FL3w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "476294979149-84eh0kjj0p035ci70oun67ejsdqdcif9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
